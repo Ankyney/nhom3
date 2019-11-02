@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+.section-content {
+    border: 1px solid #b4b0b5ba;
+    border-radius: 10px;
+    /* padding-left: 10px; */
+    padding: 10px;
+}
+.radio.tren {
+    padding-bottom:10px;
+    border-bottom: 1px solid #b4b0b5ba;
+    margin-left: 10px;
+}
+.radio.duoi {
+    padding-top: 10px;
+    /* margin-right: 20px; */
+    margin-left: 10px;
+}
+.button-hoa-don {
+    float: right;
+    padding-top: 20px;
+}
+
+.thong-tin-hoa-don {
+    margin-top: 60px;
+    margin-left: 25px;
+}
+img.anh-hd-chi-tiet {
+    width: 18%;
+    float: left;
+    /* padding-right: 15px; */
+    border: solid 2px;
+    margin-right: 15px;
+    border-radius: 10px;
+}

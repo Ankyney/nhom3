@@ -1,0 +1,53 @@
+.locsanpham{
+    border-top: 2px solid orange;
+
+}
+.locsanpham1{
+    border-bottom: 1px  black dashed ;
+}
+.list-group {
+    padding-left: 12px;
+    /* color: white; */
+}
+.filter{
+    color: #6F6F6F;
+    font: 14px Muli;
+    margin: 0px 0px 2px;
+}
+.panel-group{
+    margin-top: 160px;
+}
+/**/
+.panel.panel-danger{
+    background: black;
+}
+.panel-heading{
+    background: black;
+}
+.ten-danh-muc{
+    color: white;
+}
+i.fa.fa-angle-down {
+    float: right;
+    color: white;
+    margin-right: 8px;
+    /* font-size: 16px; */
+    font-weight: bold;
+}
+a.san-pham-dow {
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+a.san-pham-dowsp {
+    color: white;
+    text-decoration: none;
+}
+.duoi-dow{
+    padding-left: 12px;
+}
+.panel-heading.pa {
+    color: white;
+    background: black;
+    border-bottom: 1px solid white;
+}

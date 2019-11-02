@@ -1,0 +1,46 @@
+.main-container {
+    margin-left: 95px;
+    margin-top: 150px;
+    width: 1300px;
+
+}
+.title-head {
+    font-size: 1.42857em;
+    font-weight: 600;
+    color: #000000;
+    text-decoration: none;
+}
+table {
+    margin-left: 10px;
+    margin-bottom: 1em;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: center;
+    padding-top: 50px;
+}
+.buttons-clearfix{
+    margin-left: 140px;
+}
+.checkout-buttons{
+    margin-left: 400px;
+    width: 500px;
+}
+.continue-shop{
+    margin-left: 10px;
+}
+#update, #checkout{
+    background: #ff854c;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+
+}
+.contact-form.pt-50{
+    color: #525252;
+    font: 14px Muli;
+}
+.form-control {
+    background: white;
+    padding: 10px;
+}
